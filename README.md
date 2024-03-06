@@ -1,3 +1,3 @@
 ### Working Proof
 
-![P1](Ecom_images/img1.jpeg)
+![P1](image/img1.jpeg)
